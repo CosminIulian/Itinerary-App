@@ -7,5 +7,5 @@
 
 <p align= "center">
 <img src= "https://i.imgflip.com/3j90pb.gif" title= "Itinerary App" width= "222"/>
-<img src= "https://i.imgur.com/FJBnAI8.png" title= "Itinerary App" width= "222/>
+<img src= "https://i.imgur.com/FJBnAI8.png" title= "Itinerary App" width= "222"/>
 </p>
