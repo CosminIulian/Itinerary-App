@@ -1,4 +1,6 @@
-# Itinerary App<img src = "https://i.imgur.com/tR3BlII.png" title= "Itinerary App" width= "50"/>
+# Itinerary App <img src = "https://i.imgur.com/tR3BlII.png" title= "Itinerary App" width= "50"/>
+
+IOS application for organizing trips
 
 <p align= "center">
 <img src= "https://media.giphy.com/media/H2zgbseMmPfBTirHUz/giphy.gif" title= "Itinerary App" width= "222"/> &nbsp;&nbsp;&nbsp;
