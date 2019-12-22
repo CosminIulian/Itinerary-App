@@ -1,4 +1,4 @@
-# Itinerary App <img src = "https://i.imgur.com/tR3BlII.png" title= "Itinerary App" width= "20"/>
+# Itinerary App<img src = "https://i.imgur.com/tR3BlII.png" title= "Itinerary App" width= "50"/>
 
 <p align= "center">
 <img src= "https://media.giphy.com/media/H2zgbseMmPfBTirHUz/giphy.gif" title= "Itinerary App" width= "222"/> &nbsp;&nbsp;&nbsp;
