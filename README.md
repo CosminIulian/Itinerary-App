@@ -7,6 +7,7 @@ IOS application for organizing trips
 <img src= "https://i.imgur.com/r3W85mx.png" title= "Itinerary App" width= "222"/>
 &nbsp;&nbsp;&nbsp;
 <img src= "https://i.imgur.com/pVXdpch.png" title= "Itinerary App" width= "222"/>
+&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align= "center">
@@ -14,4 +15,5 @@ IOS application for organizing trips
 <img src= "https://i.imgur.com/ws1hrmJ.png" title= "Itinerary App" width= "222"/>
 &nbsp;&nbsp;&nbsp;
 <img src= "https://i.imgur.com/lDpiFLs.png" title= "Itinerary App" width= "222"/>
+&nbsp;&nbsp;&nbsp;
 </p>
