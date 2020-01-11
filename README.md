@@ -4,9 +4,9 @@ IOS application for organizing trips
 
 <p align= "center">
 <img src= "https://media.giphy.com/media/H2zgbseMmPfBTirHUz/giphy.gif" title= "Itinerary App" width= "222"/> &nbsp;&nbsp;&nbsp;
-<img src= "https://i.imgur.com/r3W85mx.png" title= "Itinerary App" width= "222"/>
-&nbsp;&nbsp;&nbsp;
 <img src= "https://i.imgur.com/pVXdpch.png" title= "Itinerary App" width= "222"/>
+&nbsp;&nbsp;&nbsp;
+<img src= "https://i.imgur.com/r3W85mx.png" title= "Itinerary App" width= "222"/>
 &nbsp;&nbsp;&nbsp;
 </p>
 
